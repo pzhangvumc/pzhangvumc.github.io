@@ -22,9 +22,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_PanpanZhang.pdf", title = CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:panpan.zhang@vumc.org"}
+  - {title: Github, icon: github, url: "https://github.com/pzhangvumc"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=XMgB5OYAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
