@@ -13,3 +13,6 @@ Prior to joining VUMC, I was a Postdoctoral Researcher in the Department of Bios
 - School A
 - School B
 - School C
+
+## Frank's Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwGyoo-D8iY" title="Regression Modeling Strategies - Dr. Frank E. Harrell - Vanderbilt University School of Medicine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
