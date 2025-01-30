@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title = Home}
   - {file: "research.md", title = Research}
   - {url: "https://www.vumc.org/vmac/home", title = Vanderbilt ADRC}
-  - {file: "CV_PanpanZhang.pdf", title = CV}
+  - {file: "assets/CV_PanpanZhang.pdf", title = CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:panpan.zhang@vumc.org"}
